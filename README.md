@@ -1,2 +1,2 @@
 # Snake
-Snake Game to learn C#
+Snake Game, Javascript, HTLM, CSS
